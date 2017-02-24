@@ -187,6 +187,10 @@ background-image: url(Images/bg.jpeg);
     max-width: 960px;
 }
 
+.container-fluid{
+
+    padding: 100px;}
+
     footer {
     background-color: #fff;
     text-align: center;
@@ -197,7 +201,23 @@ background-image: url(Images/bg.jpeg);
     
 }
 
+.row max-width{
+    margin: 0 auto;
+  background-color: aqua;
+}
 footer> h1{
  margin:0;
  transform: translateY(50%)
 }
+
+.favirote-sites>.row>.col-md-4>img {
+  margin:0 auto;
+    
+}
+.image-modal{
+    text-align: center;
+}
+
+/*Bootstrap Related
+*/
+
